@@ -13,7 +13,7 @@ elif mark >= 70:
     print('Grade B')
 elif mark >= 60:
     print('Grade C')
-elif (mark>0 and mark<60):
+elif mark>0 and mark<60:
     print('Grade D')
 else:
     print('Invalid numbers')
